@@ -1,0 +1,10 @@
+# Core Libraries
+numpy
+pandas
+scipy
+requests
+yfinance
+
+# GUI & Plotting
+tkinter
+matplotlib
